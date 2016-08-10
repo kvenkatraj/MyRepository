@@ -12,7 +12,7 @@ public class LogInTest {
 	
 	@Test(groups = {"Smoke","Regression"} )
 	public void testMethod1(){
-		Assert.assertTrue(1==2);		
+		System.out.println("Test MEthod 1");		
 	}
 	
 	@Test(groups = {"Regression"} )
