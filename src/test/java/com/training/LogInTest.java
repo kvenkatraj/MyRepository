@@ -12,6 +12,7 @@ public class LogInTest {
 	
 	@Test(groups = {"Smoke","Regression"} )
 	public void testMethod1(){
+		privat
 		System.out.println("Test MEthod 1");		
 	}
 	
