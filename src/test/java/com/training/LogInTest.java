@@ -1,6 +1,5 @@
 package com.training;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import cucumber.api.java.en.Given;
@@ -11,8 +10,7 @@ import cucumber.api.java.en.When;
 public class LogInTest {
 	
 	@Test(groups = {"Smoke","Regression"} )
-	public void testMethod1(){
-		privat
+	public void testMethod1(){		
 		System.out.println("Test MEthod 1");		
 	}
 	
