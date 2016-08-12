@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Example test run">
-  <test name="Simple Test">
+<suite name="Suite">
+  <test name="Test">
     <classes>
-      <class name="com.training.LogInTest"/>
+      
+      <class name="com.training.RunCukesTest"/>
+      
     </classes>
-  </test>
-</suite>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
